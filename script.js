@@ -90,7 +90,7 @@ ScrollReveal().reveal('.contact form', { origin: 'bottom' });
 // ==================typed js==================
 
 var typed = new Typed('.multiple-text', {
-  strings: ['FrontEnd Developer', 'Web Developer', 'Software Developer'],
+  strings: ['FrontEnd Developer', 'Web Developer'],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
